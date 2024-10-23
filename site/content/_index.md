@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Welcome to NARCAN Sports Updates"
+subtitle: Your Ultimate Source for NFL News, Game Analyses, and Player Spotlights
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Monday Night Football Updates?
+    text: "Your go-to source for all things NFL, where football isn’t just a game—it’s a passion. We bring you in-depth analyses, player spotlights, and community events that enhance your football experience."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Latest News: Stay updated with real-time information about games, players, and league events. Whether it's breaking trade news, injury reports, or the latest developments from training camps, you'll get comprehensive updates as they happen."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Game Analyses: Get detailed breakdowns of past and upcoming matches, highlighting key strategies and performances. From play-by-play commentary to deep dives into tactics, we cover all the angles that matter most to fans, helping you understand the game better."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Player Spotlights: Discover the stories behind your favorite athletes and rising stars in the league. Learn about their journey to the NFL, their performance trends, off-field impact, and what makes them unique as both players and individuals."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Football is more than just a sport; it brings people together. We aim to foster a community of fans who share the love for the game and advocate for positive changes in the sport.
 ---
 
