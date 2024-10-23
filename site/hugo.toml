@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://sports.narcan.com"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
+title = "NARCAN Sports"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
