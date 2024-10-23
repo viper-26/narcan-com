@@ -3,7 +3,7 @@ title: "Welcome to NARCAN Sports Updates"
 subtitle: Your Ultimate Source for NFL News, Game Analyses, and Player Spotlights
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Monday Night Football Updates?
+    heading: Why NARCAN Sports?
     text: "Your go-to source for all things NFL, where football isn’t just a game—it’s a passion. We bring you in-depth analyses, player spotlights, and community events that enhance your football experience."
 intro:
     heading: "What we offer"
